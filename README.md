@@ -20,12 +20,3 @@ no web-server required)
 * make tap - creates the tap file
 * make run - runs the game
 * make all - all of the above
-
-## License
-
-The source code of the game is licensed GPL 3.0, the assets are 
-[CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/).
-
-The tools/libraries included that I don't own have their own copyright notices
-and license (some are public domain, others are open source).
-
