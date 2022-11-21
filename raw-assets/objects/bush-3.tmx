@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="3" height="4" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../tileset/tileset.tsx"/>
+ <layer id="1" name="bush-3" width="3" height="4">
+  <data encoding="csv">
+1,71,71,
+68,72,74,
+74,74,74,
+47,74,43
+</data>
+ </layer>
+</map>

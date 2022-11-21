@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="7" height="3" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../tileset/tileset.tsx"/>
+ <layer id="1" name="smudge-title" width="7" height="3">
+  <data encoding="csv">
+202,203,204,205,206,207,208,
+218,219,220,221,222,223,224,
+234,235,236,237,238,239,240
+</data>
+ </layer>
+</map>

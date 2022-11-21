@@ -1,0 +1,8 @@
+SECTION rodata_user
+
+PUBLIC _phoneBoxTilemap
+
+._phoneBoxTilemap
+defb @00000100, @00000010, @01110101, @01110110
+defb @01110010, @01110100, @01110010, @01110011
+defb @01110000, @01110001

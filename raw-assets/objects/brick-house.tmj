@@ -1,0 +1,43 @@
+{ "compressionlevel":-1,
+ "height":12,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 26, 1,
+            33, 31, 31, 31, 31, 31, 31, 3, 32,
+            30, 28, 28, 28, 28, 28, 28, 61, 29,
+            30, 28, 28, 28, 28, 28, 28, 28, 29,
+            64, 62, 62, 62, 62, 62, 62, 62, 63,
+            19, 19, 19, 19, 19, 19, 19, 19, 19,
+            18, 99, 100, 17, 17, 17, 99, 100, 17,
+            18, 97, 98, 17, 17, 17, 97, 98, 17,
+            18, 17, 17, 17, 17, 17, 17, 17, 17,
+            18, 102, 104, 106, 17, 17, 86, 83, 17,
+            18, 101, 103, 105, 17, 17, 85, 82, 17,
+            18, 17, 17, 17, 17, 17, 84, 81, 17],
+         "height":12,
+         "id":1,
+         "name":"brick-house",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":9,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tileset\/tileset.tsx"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":"1.8",
+ "width":9
+}

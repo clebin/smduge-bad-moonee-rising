@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="9" height="4" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="menu-title.tmj" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../tileset/tileset.tsx"/>
+ <layer id="1" name="menu-title" width="9" height="4">
+  <data encoding="csv">
+9,202,203,204,205,206,207,208,9,
+9,218,219,220,221,222,223,224,9,
+9,234,235,236,237,238,239,240,9,
+246,247,248,249,250,251,252,253,254
+</data>
+ </layer>
+</map>

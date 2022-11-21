@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="32" height="1" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="../objects/status-bar.tmj" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../tileset/tileset.tsx"/>
+ <layer id="1" name="status-bar" width="32" height="1">
+  <data encoding="csv">
+241,1,1,256,246,247,248,249,250,251,252,253,254,1,1,1,9,139,9,9,9,9,9,9,255,9,9,9,9,9,256,9
+</data>
+ </layer>
+</map>

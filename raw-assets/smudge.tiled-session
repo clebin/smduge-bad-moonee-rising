@@ -1,0 +1,681 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "screens/screens.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "objects",
+        "screens",
+        "interface",
+        "tileset"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/chrishome/Desktop/Spectrum graphics/game-screens.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 127.25,
+                "y": 89.75
+            }
+        },
+        "/Users/chrishome/Desktop/Spectrum graphics/spectrum-tiles.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "/Volumes/Work/misc/spec-dev/SpecTiledTool/sample/screen-objects.tmx": {
+            "scale": 1.94,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 240.97938144329902,
+                "y": 187.88659793814435
+            }
+        },
+        "/Volumes/Work/misc/spec-dev/SpecTiledTool/sample/screen-tilemaps.tmx": {
+            "scale": 1.2674744897959183,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 60.75072959645766,
+                "y": 128.2077085639529
+            }
+        },
+        "/Volumes/Work/misc/spec-dev/SpecTiledTool/sample/tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "/Volumes/Work/misc/spec-dev/smudge-basic/assets/game-screens.tmx": {
+            "scale": 3.3695312499999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 113.5172733596105,
+                "y": 96.60097380013912
+            }
+        },
+        "/Volumes/Work/misc/spec-dev/smudge-basic/assets/spectrum-tiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "/Volumes/Work/misc/spec-dev/spec-wars.tsx": {
+            "scaleInDock": 2.5,
+            "scaleInEditor": 4
+        },
+        "/Volumes/Work/misc/spec/basic-test/assets/game-screens.tmx": {
+            "scale": 2.13,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.8732394366197,
+                "y": 96.94835680751173
+            }
+        },
+        "/Volumes/Work/misc/spec/basic-test/assets/spectrum-tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Volumes/Work/misc/spec/smudge-basic/assets/game-screens.tmx": {
+            "scale": 2.1374999999999997,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 111.11111111111111,
+                "y": 82.57309941520468
+            }
+        },
+        "/Volumes/Work/misc/spec/smudge-basic/assets/spectrum-tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "game-screens.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 129,
+                "y": 129.25
+            }
+        },
+        "interface/menu-title.tmx": {
+            "scale": 9.88,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 35.273279352226716,
+                "y": 15.334008097165992
+            }
+        },
+        "interface/smudge-title.tmx": {
+            "scale": 8.872321428571427,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 27.275837778001414,
+                "y": 11.214652309550171
+            }
+        },
+        "interface/status-bar.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 111.18181818181819,
+                "y": 33.36363636363637
+            }
+        },
+        "interface/title-bar.tmx": {
+            "scale": 1.9408203124999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124.43192110294858,
+                "y": 4.379591425983698
+            }
+        },
+        "menu-title.tmx": {
+            "scale": 8.52,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 39.55399061032864,
+                "y": 46.77230046948357
+            }
+        },
+        "objects/brick-house.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 36.090909090909086,
+                "y": 47
+            }
+        },
+        "objects/buck-house.tmx": {
+            "scale": 4.118465909090909,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 87.89680623577291,
+                "y": 56.21025039663378
+            }
+        },
+        "objects/bush-1.tmx": {
+            "scale": 14.566666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 11.979405034324943,
+                "y": 23.958810068649885
+            }
+        },
+        "objects/bush-2.tmj": {
+            "scale": 11,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 16.090909090909093,
+                "y": 16.045454545454547
+            }
+        },
+        "objects/bush-2.tmx": {
+            "scale": 15.526562499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 15.940424675455368,
+                "y": 15.972627553587602
+            }
+        },
+        "objects/bush-3.tmx": {
+            "scale": 11,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 11.954545454545453,
+                "y": 16
+            }
+        },
+        "objects/castle.tmx": {
+            "scale": 3.62425,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 75.46388908049941,
+                "y": 89.94964475408706
+            }
+        },
+        "objects/factory.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 98.5,
+                "y": 41.83333333333333
+            }
+        },
+        "objects/laundrette.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.909090909090914,
+                "y": 67.54545454545455
+            }
+        },
+        "objects/pavement.tmx": {
+            "scale": 11.87,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 23.967986520640267,
+                "y": 8.003369839932603
+            }
+        },
+        "objects/phone-box.tmx": {
+            "scale": 21.85,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8.100686498855834,
+                "y": 16.041189931350115
+            }
+        },
+        "objects/posh-house.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 45.166666666666686,
+                "y": 35.33333333333334
+            }
+        },
+        "objects/pub-sign-1.tmx": {
+            "scale": 19.672916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4.015672985280103,
+                "y": 8.005930318754633
+            }
+        },
+        "objects/pub-sign-2.tmx": {
+            "scale": 16,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 10.4375,
+                "y": 10.09375
+            }
+        },
+        "objects/pub.tmx": {
+            "scale": 4.918229166666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 46.1548236789156,
+                "y": 43.003282855024885
+            }
+        },
+        "objects/road-2.tmx": {
+            "scale": 2.5189393939393936,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124.06015037593986,
+                "y": 36.32481203007519
+            }
+        },
+        "objects/road-3.tmx": {
+            "scale": 2.5189393939393936,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124.45714285714287,
+                "y": 33.148872180451136
+            }
+        },
+        "objects/road.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 102.5,
+                "y": 69.25
+            }
+        },
+        "objects/rundown-house-1.tmj": {
+            "scale": 4.663636363636363,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.09746588693957,
+                "y": 44.27875243664718
+            }
+        },
+        "objects/rundown-house-1.tmx": {
+            "scale": 7.945454545454544,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 43.924485125858126,
+                "y": 44.23913043478261
+            }
+        },
+        "objects/rundown-house-2.tmx": {
+            "scale": 6.471875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 55.625301786576536,
+                "y": 44.113954611298894
+            }
+        },
+        "objects/rural-house-1.tmj": {
+            "scale": 10.331249999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.02419842710225,
+                "y": 48.05807622504538
+            }
+        },
+        "objects/rural-house.tmj": {
+            "scale": 10.331249999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.02419842710225,
+                "y": 48.05807622504538
+            }
+        },
+        "objects/rural-house.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 6.18181818181818,
+                "y": 17.18181818181818
+            }
+        },
+        "objects/shop-1.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -26.166666666666657,
+                "y": -4.5
+            }
+        },
+        "objects/shop-2.tmx": {
+            "scale": 8.609375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.02903811252268,
+                "y": 52.09437386569872
+            }
+        },
+        "objects/sign.tmx": {
+            "scale": 7.37734375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 17.14709308482474,
+                "y": 20.12919623001165
+            }
+        },
+        "objects/spectrum-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "objects/streetlamp.tmx": {
+            "scale": 6.723076923076922,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4.090389016018307,
+                "y": 47.894736842105274
+            }
+        },
+        "objects/town-cross.tmx": {
+            "scale": 12.9140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 23.966122202056866,
+                "y": 28.07017543859649
+            }
+        },
+        "objects/tree-1.tmj": {
+            "scale": 15.97,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8.20288040075141,
+                "y": 21.383844708829056
+            }
+        },
+        "objects/tree-1.tmx": {
+            "scale": 10.924999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20.18306636155607,
+                "y": 32.17391304347826
+            }
+        },
+        "objects/victorian-house.tmx": {
+            "scale": 7.945454545454544,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 44.36498855835241,
+                "y": 54.30778032036614
+            }
+        },
+        "screens/brick-houses-objects.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 89.5,
+                "y": 110.25
+            }
+        },
+        "screens/screen-objects.tmx": {
+            "scale": 2,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 120.75,
+                "y": 131.75
+            }
+        },
+        "screens/screens.tmx": {
+            "scale": 3,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 124.16666666666664,
+                "y": 81.66666666666666
+            }
+        },
+        "screens/shop-2.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 41.72727272727273,
+                "y": 66.0909090909091
+            }
+        },
+        "screens/spectrum-tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "smudge-title.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 25,
+                "y": 12.5625
+            }
+        },
+        "spec-wars.tmx": {
+            "scale": 2.85,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124.03508771929823,
+                "y": 96.31578947368422
+            }
+        },
+        "spectrum-tiles.tsx": {
+            "scaleInDock": 3.005,
+            "scaleInEditor": 5.5
+        },
+        "status-bar.tmx": {
+            "scale": 3.11,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 105.78778135048232,
+                "y": 2.4115755627009605
+            }
+        },
+        "tilemaps/brick-house.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 31.5,
+                "y": 48.125
+            }
+        },
+        "tilemaps/buck-house.tmx": {
+            "scale": 3.8671195652173913,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 84.04188040193944,
+                "y": 56.24341226899024
+            }
+        },
+        "tilemaps/bush-1.tmx": {
+            "scale": 14.566666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8.03203661327231,
+                "y": 24.061784897025174
+            }
+        },
+        "tilemaps/bush-2.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 20.5,
+                "y": 19.8125
+            }
+        },
+        "tilemaps/bush-3.tmx": {
+            "scale": 21.85,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 8.0091533180778,
+                "y": 16.041189931350115
+            }
+        },
+        "tilemaps/castle.tmx": {
+            "scale": 3.4209134615384613,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 96.17314313821937,
+                "y": 56.27151992129857
+            }
+        },
+        "tilemaps/factory.tmx": {
+            "scale": 6.3531249999999995,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.00787014264633,
+                "y": 48.086571569109694
+            }
+        },
+        "tilemaps/game-screens.tmx": {
+            "scale": 2.34,
+            "selectedLayer": 22,
+            "viewCenter": {
+                "x": 132.47863247863248,
+                "y": 120.72649572649573
+            }
+        },
+        "tilemaps/laundrette.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 36.00000000000001,
+                "y": 48.09090909090909
+            }
+        },
+        "tilemaps/phone-box.tmx": {
+            "scale": 11,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4.0000000000000036,
+                "y": 16.045454545454547
+            }
+        },
+        "tilemaps/posh-house.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 37.33333333333333,
+                "y": 85.83333333333333
+            }
+        },
+        "tilemaps/posh-houxe.tmx": {
+            "scale": 6.723076923076922,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.01144164759726,
+                "y": 52.133867276887884
+            }
+        },
+        "tilemaps/road.tmx": {
+            "scale": 2.695265151515151,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.37326962265482,
+                "y": 34.69046447895441
+            }
+        },
+        "tilemaps/rundown-house-1.tmx": {
+            "scale": 7.41,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.08097165991902,
+                "y": 44.06207827260459
+            }
+        },
+        "tilemaps/rundown-house-2.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 52.00000000000001,
+                "y": 44.09090909090909
+            }
+        },
+        "tilemaps/rural-house.tmx": {
+            "scale": 7.28,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 35.71428571428571,
+                "y": 48.00824175824175
+            }
+        },
+        "tilemaps/smudge-title.tmx": {
+            "scale": 8.549999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 38.36257309941521,
+                "y": 10.233918128654972
+            }
+        },
+        "tilemaps/spectrum-tiles.tsx": {
+            "scaleInDock": 2.6986,
+            "scaleInEditor": 4.63
+        },
+        "tilemaps/streetlamp.tmx": {
+            "scale": 6.723076923076922,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 10.11441647597254,
+                "y": 77.71739130434783
+            }
+        },
+        "tilemaps/title-bar.tmx": {
+            "scale": 2.695265151515151,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 124.29203850748367,
+                "y": 8.347972735577272
+            }
+        },
+        "tilemaps/tree-1.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 17.25,
+                "y": 32.375
+            }
+        },
+        "tilemaps/victorian-house.tmx": {
+            "scale": 7.41,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 40.08097165991902,
+                "y": 44.06207827260459
+            }
+        },
+        "tileset/tileset.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4.63
+        }
+    },
+    "last.exportedFilePath": "/Volumes/Work/misc/spec-dev/smudge/raw-assets/objects",
+    "last.imagePath": "/Volumes/Work/misc/spec-dev/smudge/raw-assets/tileset",
+    "last.objectTypesPath": "/Volumes/Work/misc/spec-dev/smudge/raw-assets/objects/objecttypes.xml",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
+    "map.height": 2,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 6,
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+        "tileset/tileset.tsx",
+        "screens/screens.tmx",
+        "objects/pavement.tmx",
+        "objects/bush-3.tmx",
+        "objects/bush-2.tmx",
+        "objects/bush-1.tmx",
+        "objects/castle.tmx",
+        "objects/streetlamp.tmx",
+        "objects/posh-house.tmx"
+    ],
+    "project": "smudge.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "tileset/tileset.tsx",
+        "objects/posh-house.tmx",
+        "objects/streetlamp.tmx",
+        "objects/castle.tmx",
+        "objects/bush-1.tmx",
+        "objects/bush-2.tmx",
+        "objects/bush-3.tmx",
+        "objects/pavement.tmx",
+        "screens/screens.tmx",
+        "objects/road-2.tmx",
+        "objects/road-3.tmx",
+        "interface/status-bar.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

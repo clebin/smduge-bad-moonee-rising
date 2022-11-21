@@ -1,0 +1,39 @@
+{ "compressionlevel":-1,
+ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 68, 69, 70, 1,
+            68, 37, 73, 73, 70,
+            72, 73, 73, 74, 73,
+            72, 73, 73, 73, 73,
+            76, 73, 74, 73, 77,
+            1, 76, 75, 77, 1,
+            1, 1, 56, 1, 1,
+            1, 1, 56, 1, 1],
+         "height":8,
+         "id":1,
+         "name":"tree-1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tileset\/tileset.tsx"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":"1.8",
+ "width":5
+}

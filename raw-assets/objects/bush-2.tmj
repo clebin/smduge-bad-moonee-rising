@@ -1,0 +1,35 @@
+{ "compressionlevel":-1,
+ "height":4,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 71, 1,
+            78, 79, 79, 70,
+            80, 79, 74, 80,
+            76, 74, 74, 77],
+         "height":4,
+         "id":1,
+         "name":"bush-2",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":4,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tileset\/tileset.tsx"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":"1.8",
+ "width":4
+}

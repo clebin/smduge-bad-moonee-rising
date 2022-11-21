@@ -1,0 +1,32 @@
+{ "compressionlevel":-1,
+ "height":1,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[241, 1, 1, 256, 246, 247, 248, 249, 250, 251, 252, 253, 254, 1, 1, 1, 9, 139, 9, 9, 9, 9, 9, 9, 255, 9, 9, 9, 9, 9, 256, 9],
+         "height":1,
+         "id":1,
+         "name":"status-bar",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":32,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tileset\/tileset.tsx"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":"1.8",
+ "width":32
+}

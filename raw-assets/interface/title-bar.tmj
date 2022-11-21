@@ -1,0 +1,33 @@
+{ "compressionlevel":-1,
+ "height":2,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[207, 208, 204, 205, 206, 207, 208, 204, 205, 206, 207, 208, 204, 205, 206, 207, 208, 204, 205, 206, 207, 208, 204, 205, 206, 207, 208, 204, 205, 206, 207, 208,
+            10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+         "height":2,
+         "id":1,
+         "name":"title-bar",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":32,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"..\/tileset\/tileset.tsx"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":"1.8",
+ "width":32
+}
